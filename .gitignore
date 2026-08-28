@@ -51,3 +51,6 @@ package.json
 /man/
 /share/
 /src/
+
+# Local Odoo runtime data
+data/
